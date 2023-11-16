@@ -1,0 +1,6 @@
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod11prac\Employee\bin\Debug\Employee.dll
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod11prac\Employee\bin\Debug\Employee.pdb
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod11prac\Employee\obj\Debug\EmployeeLib.csproj.AssemblyReference.cache
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod11prac\Employee\obj\Debug\EmployeeLib.csproj.CoreCompileInputs.cache
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod11prac\Employee\obj\Debug\Employee.dll
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod11prac\Employee\obj\Debug\Employee.pdb
